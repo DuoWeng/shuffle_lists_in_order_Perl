@@ -1,0 +1,12 @@
+cpl@debian7:~/P03/Perl$ perl third.pl
+Please input the first list:
+A B
+Please input the second list:
+C D
+A B C D
+A C B D
+A C D B
+C A B D
+C A D B
+C D A B
+
