@@ -1,1 +1,9 @@
 perl third.pl
+$ shuffle
+     [a,b,c]
+     [1,2,3]
+and as output you will obtain
+     [a,b,c,1,2,3];
+     [a,b,1,c,2,3];
+     ....
+     [1,2,3,a,b,c]
